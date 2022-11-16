@@ -1,0 +1,125 @@
+.cadastroDespesa-form {
+  height: 500px;
+  width: 900px;
+  position: absolute;
+  transform: translate(-50%, -50%);
+  background-color: #00a2ff8a;
+  border: 10px solid #00a3ff;
+  box-shadow: 0 0 60px rgba(8, 7, 16, 0.6);
+  top: 50%;
+  left: 50%;
+  border-radius: 10px;
+  padding: 20px 35px;
+}
+
+.text-title {
+  color: white;
+}
+
+.text-title-center {
+  position: absolute;
+  top: 12%;
+  left: 40%;
+  color: white;
+}
+
+.text-title-center2 {
+  position: absolute;
+  top: 90%;
+  left: 44%;
+  color: white;
+}
+
+body {
+  background-color: #3e3e3e;
+}
+
+.logo2 {
+  display: flex;
+  padding: 5px;
+  width: 280px;
+  height: 90px;
+  position: absolute;
+  top: 02%;
+  left: 02%;
+}
+
+.inputsCadastro {
+  display: inline-block;
+  width: 500px;
+  align-items: center;
+  position: absolute;
+  top: 9%;
+  left: 34%;
+}
+
+.form-group {
+  margin-bottom: 1rem;
+}
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  margin-right: -15px;
+  margin-left: -15px;
+}
+
+.input-style-form {
+  border-radius: 3px;
+  border: none;
+  margin-left: 10px;
+}
+
+.select-style-money {
+  width: 60px;
+}
+
+.select-style2 {
+  width: 130px;
+}
+
+.select-style3 {
+  width: 100px;
+}
+
+.form-linear {
+  display: flex;
+  align-items: center;
+  width: 300px;
+}
+
+.imgCarteira {
+  width: 70px;
+  padding-right: 20px;
+}
+
+.table {
+  height: 500px;
+  width: 900px;
+  position: absolute;
+  transform: translate(-50%, -50%);
+  background-color: #00a2ff8a;
+  border: 10px solid #00a3ff;
+  box-shadow: 0 0 60px rgba(8, 7, 16, 0.6);
+  top: 140%;
+  left: 50%;
+  border-radius: 10px;
+  padding: 20px 35px;
+}
+
+th {
+  color: white;
+  padding-left: 92px;
+}
+
+.button-Cadastro {
+  width: 98px;
+  height: 40px;
+  color: white;
+  background-color: #09a719;
+  border: none;
+  margin-top: 40px;
+  position: absolute;
+  top: 68%;
+  left: 34%;
+}

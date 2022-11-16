@@ -1,0 +1,62 @@
+.login-form {
+  height: 500px;
+  width: 500px;
+  position: absolute;
+  transform: translate(-50%, -50%);
+  background-color: #00a2ff8a;
+  border: 10px solid #00a3ff;
+  box-shadow: 0 0 60px rgba(8, 7, 16, 0.6);
+  top: 50%;
+  left: 50%;
+  border-radius: 10px;
+  padding: 20px 35px;
+}
+
+.text-title {
+  color: white;
+}
+
+body {
+  background-color: #3e3e3e;
+}
+
+.logo {
+  display: flex;
+  padding: 5px;
+  width: 600px;
+  position: absolute;
+  top: 05%;
+  left: 28%;
+}
+
+.inputs {
+  display: flex;
+  width: 500px;
+  align-items: center;
+  top: 30%;
+  left: 34%;
+  position: absolute;
+}
+
+.input-style {
+  border-radius: 3px;
+  border: none;
+}
+
+.imgCarteira {
+  width: 70px;
+  padding-right: 20px;
+}
+
+.button-enter {
+  width: 90px;
+  height: 40px;
+  color: white;
+  background-color: #09a719;
+  border: none;
+  margin-top: 40px;
+  position: absolute;
+  top: 68%;
+  left: 40%;
+  cursor: pointer;
+}
